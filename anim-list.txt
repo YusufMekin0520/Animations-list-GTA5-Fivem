@@ -3,6 +3,7 @@ amb@bagels@male@walking@
  
 amb@code_human_cower@female@base
 	base
+	yusuf
 
 amb@code_human_cower@female@enter
 	enter
